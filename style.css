@@ -47,6 +47,14 @@ body {
     justify-content: center;
 }
 
+.socialm a {
+    border-bottom: 2px solid transparent;
+}
+
+.socialm a:hover {
+    border-bottom: 2px solid white;
+}
+
 @media only screen and (min-width: 1024px) {
     .container {
         display: grid;
